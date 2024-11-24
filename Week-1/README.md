@@ -2,7 +2,7 @@
 
 **Date:** 17 November 2024
 
-## Learning Activities Resources
+## Learning Activities
 This week I read the paper related to my research that provides vast information on how methodologies such as Artificial Intelligence (AI), 
 Machine Learning (ML), Deep Learning (DL), and metaheuristic algorithms augment the efficiency and accuracy of cyber threat detection.
 
@@ -24,11 +24,9 @@ to enhance the defense and detection of the system by analyzing the vast dataset
      resulting in the discovery of superior solutions for the ever-evolving attack patterns.
 
 ## Personal Reflection
-
 The learning insights I gained from this paper help me understand the pivotal role AI plays in modern cybersecurity. In the coming week, I plan to:
   - Practicing AI-based threat detection techniques by reproducing a published experiment
 
 ## Conclusion
-
 To summarize this week, I have significantly deepened my understanding of how AI and other methodologies are utilized in the field of cybersecurity. 
 Through the in-depth reading of this paper, I have obtained a wealth of theoretical knowledge about the utilization of AI in cybersecurity.
